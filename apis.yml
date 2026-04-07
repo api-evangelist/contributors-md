@@ -1,12 +1,11 @@
 name: CONTRIBUTORS.md
-description: File recognizing individuals and organizations that have contributed
-  to a project through code, documentation, design, or other means.
+description: File recognizing individuals and organizations that have contributed to a project through code, documentation, design, or other means.
 url: ''
 tags:
-- Documentation
-- Attribution
-- Community
-- Open Source
+  - Attribution
+  - Community
+  - Documentation
+  - Open Source
 created: '2025-01-01'
 modified: '2026-03-16'
 apis: []
