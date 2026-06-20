@@ -11,7 +11,7 @@ description: >-
   organization. CONTRIBUTORS.md is often paired with the All Contributors
   specification, which standardizes contribution categories using emoji keys
   and supports automated table generation through the All Contributors bot.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - All Contributors
   - Attribution
@@ -32,7 +32,7 @@ apis:
       - Convention
       - Markdown
       - Recognition
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://allcontributors.org/
     properties:
       - url: https://allcontributors.org/
@@ -69,7 +69,7 @@ apis:
       - Attribution
       - Specification
       - Standardization
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://allcontributors.org/docs/en/specification
     properties:
       - url: https://allcontributors.org/docs/en/specification
