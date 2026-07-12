@@ -99,6 +99,8 @@ apis:
       - Recognizing accessibility, infrastructure, and security contributions
 
 common:
+  - type: DomainSecurity
+    url: security/contributors-md-domain-security.yml
   - type: Reference
     url: https://allcontributors.org/
   - type: Specification
