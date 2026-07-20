@@ -2,7 +2,7 @@ aid: contributors-md
 url: >-
   https://raw.githubusercontent.com/api-evangelist/contributors-md/refs/heads/main/apis.yml
 name: CONTRIBUTORS.md
-kind: standard
+kind: topic
 description: >-
   CONTRIBUTORS.md is an open source convention used to recognize the people
   and organizations that have contributed to a project. The file lists
