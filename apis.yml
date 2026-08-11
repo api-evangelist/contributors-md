@@ -111,6 +111,17 @@ apis:
       - Recognizing accessibility, infrastructure, and security contributions
 
 common:
+  - type: IssueTracker
+    url: https://github.com/all-contributors/all-contributors/issues
+  - type: Releases
+    url: https://github.com/all-contributors/all-contributors/releases
+  - type: CodeOfConduct
+    url: https://github.com/all-contributors/allcontributors.org/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/all-contributors/allcontributors.org/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/all-contributors/all-contributors/blob/main/LICENSE
   - type: DomainSecurity
     url: security/contributors-md-domain-security.yml
   - type: Reference
