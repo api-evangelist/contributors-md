@@ -137,6 +137,8 @@ apis:
       - Recognizing accessibility, infrastructure, and security contributions
 
 common:
+  - type: Website
+    url: https://www.allcontributors.org/
   - type: IssueTracker
     url: https://github.com/all-contributors/all-contributors/issues
   - type: Releases
