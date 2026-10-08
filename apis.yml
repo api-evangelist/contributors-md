@@ -138,6 +138,12 @@ apis:
       - Recognizing accessibility, infrastructure, and security contributions
 
 common:
+  - type: Plans
+    url: plans/contributors-md-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/contributors-md-rate-limits.yml
+  - type: FinOps
+    url: finops/contributors-md-finops.yml
   - type: Website
     url: https://www.allcontributors.org/
   - type: IssueTracker
